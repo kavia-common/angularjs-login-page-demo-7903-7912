@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/angularjs-login-page-demo-7903-7912/login_frontend"
+}
